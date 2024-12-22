@@ -13,7 +13,7 @@ body{
     align-items: center;
     height: 100vh;
     font-weight: bold;
-    background: linear-gradient(45deg, #2c3e50, #34495e, #2c3e50, #34495e, #2c3e50, #34495e);
+    background: linear-gradient(45deg, #006466, #065a60, #0b525b, #144552, #1b3a4b, #212f45, #130106);
     background-size: 400% 400%;
     animation: gradientAnimation 15s ease infinite;
 }
@@ -46,7 +46,7 @@ a:hover{
     -webkit-box-reflect: below 1px linear-gradient(transparent, #0005);            
 }
 a:nth-child(1){
-    filter: hue-rotate(270deg);
+    filter: hue-rotate(240deg);
 }
 a:nth-child(2){
     filter: hue-rotate(150deg);
